@@ -20,7 +20,7 @@ A simple and efficient web-based tool for generating QR codes individually or in
 
 ## Demo
 
-Try the live demo at [milhaniq.com](https://milhaniq.com)
+Try the live demo at [milhaniq.github.io/qr-generator.com](https://milhaniq.github.io/qr-generator)
 
 ## Usage
 
@@ -101,4 +101,4 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 ---
 
-**Visit [milhaniq.com](https://milhaniq.com) for more projects and updates!**
+
